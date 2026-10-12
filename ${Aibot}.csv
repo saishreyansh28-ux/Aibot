@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"MK1","1","Microphone","","","","","${EXCLUDE_FROM_POS_FILES}","Package_SIP:Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm",""
+"U1","1","ESP32-S3-MINI-1","","","","","${EXCLUDE_FROM_POS_FILES}","RF_Module:ESP32-S2-MINI-1","https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf"
+"U2","1","ER_OLEDM0.91_1x-I2C","","","","","${EXCLUDE_FROM_POS_FILES}","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
+"U3","1","BQ76952PFB","","","","","${EXCLUDE_FROM_POS_FILES}","Package_QFP:TQFP-48_7x7mm_P0.5mm","https://www.ti.com/lit/ds/symlink/bq76952.pdf"
+"U4","1","MAX98357A","","","","","${EXCLUDE_FROM_POS_FILES}","Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm","https://www.analog.com/media/en/technical-documentation/data-sheets/MAX98357A-MAX98357B.pdf"
