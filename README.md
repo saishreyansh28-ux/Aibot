@@ -32,6 +32,7 @@ If you cannot hear the words properly, you can alternatively use the OLED Displa
 
 <img width="714" height="462" alt="Screenshot 2026-11-24 at 5 01 09 PM" src="https://github.com/user-attachments/assets/6144eb15-c643-45de-b2f2-a30e29b960c9" />
 
+
 #Parts Footprints:
 *INMP441(Microphone)
 
