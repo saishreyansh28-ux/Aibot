@@ -9,9 +9,13 @@ A bot that has AI in it.
 
  It runs using an 
  *ESP32 S3 Mini
+ 
  *OLED
+ 
  *Microphone
+ 
  *Speaker
+ 
  *Audio Amplifier
 
  The Oled shows the answer in text on the screen and we can speak to the AI model using the Microphone.
@@ -21,9 +25,13 @@ If you cannot hear the words properly, you can alternatively use the OLED Displa
 
 Parts Footprints:
 *INMP441(Microphone)
+
 *ESP32-S3-MINI-1(Microcontroller)
+
 *ER_OLEDM0.91_1x-I2C(Display)
+
 *BQ76952PFB(Battery Management System)
+
 *MAX98357A(Audio Amplifier)
 
 
