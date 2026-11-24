@@ -1,17 +1,30 @@
 # Aibot
 A bot that has AI in it.
+
+<img width="435" height="517" alt="Screenshot 2026-11-24 at 4 53 32 PM" src="https://github.com/user-attachments/assets/ac54b260-4d75-4e95-8286-f9fb05305e7c" />
+
+
  It connects to your api key and runs the AI
- You replace the code placeholder labeled API, WiFI info( pass and user) with your details and send the code to the device.
+ You replace the code placeholder labeled API, WiFi information with your details and upload to the device.
 
- it runs using an 
- ESP32 S3 Mini
- OLED
- Microphone
- Speaker
- Audio Amplifier
+ It runs using an 
+ *ESP32 S3 Mini
+ *OLED
+ *Microphone
+ *Speaker
+ *Audio Amplifier
 
- The Oled shows the answer in text on screen and we can speak to the Ai using the Microphone.
- It works well
+ The Oled shows the answer in text on the screen and we can speak to the AI model using the Microphone.
 
 It answers using the speaker
+If you cannot hear the words properly, you can alternatively use the OLED Display for the response.
+
+Parts Footprints:
+*INMP441(Microphone)
+*ESP32-S3-MINI-1(Microcontroller)
+*ER_OLEDM0.91_1x-I2C(Display)
+*BQ76952PFB(Battery Management System)
+*MAX98357A(Audio Amplifier)
+
+
 
