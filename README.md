@@ -7,6 +7,8 @@ A bot that has AI in it.
  It connects to your api key and runs the AI
  You replace the code placeholder labeled API, WiFi information with your details and upload to the device.
 
+I made it because I feel it would be easier if you had a desk buddy sort of thing beside you to help you with connecting with your AI.
+
  It runs using an:
  
  *ESP32 S3 Mini
