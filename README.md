@@ -1,4 +1,5 @@
 # Aibot
+
 A bot that has AI in it.
 
 <img width="435" height="517" alt="Screenshot 2026-11-24 at 4 53 32 PM" src="https://github.com/user-attachments/assets/ac54b260-4d75-4e95-8286-f9fb05305e7c" />
@@ -6,7 +7,8 @@ A bot that has AI in it.
  It connects to your api key and runs the AI
  You replace the code placeholder labeled API, WiFi information with your details and upload to the device.
 
- It runs using an 
+ It runs using an:
+ 
  *ESP32 S3 Mini
  
  *OLED
@@ -34,6 +36,7 @@ If you cannot hear the words properly, you can alternatively use the OLED Displa
 
 
 #Parts Footprints:
+
 *INMP441(Microphone)
 
 *ESP32-S3-MINI-1(Microcontroller)
@@ -46,7 +49,9 @@ If you cannot hear the words properly, you can alternatively use the OLED Displa
 
 
 #USAGE
+
 While uploading the provided code to the microcontroller, edit the placeholders. Enter your WiFi Information and the Place Holder for Api Key and AI model.
+
 If running a local llm, take the api key provided by the llm and paste it there and edit the AI model with the one you are running.
 
 
