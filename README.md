@@ -18,12 +18,12 @@ A bot that has AI in it.
  
  *Audio Amplifier
 
- The Oled shows the answer in text on the screen and we can speak to the AI model using the Microphone.
+The Oled shows the answer in text on the screen and we can speak to the AI model using the Microphone.
 
 It answers using the speaker
 If you cannot hear the words properly, you can alternatively use the OLED Display for the response.
 
-Parts Footprints:
+#Parts Footprints:
 *INMP441(Microphone)
 
 *ESP32-S3-MINI-1(Microcontroller)
@@ -34,5 +34,9 @@ Parts Footprints:
 
 *MAX98357A(Audio Amplifier)
 
+
+#USAGE
+While uploading the provided code to the microcontroller, edit the placeholders. Enter your WiFi Information and the Place Holder for Api Key and AI model.
+If running a local llm, take the api key provided by the llm and paste it there and edit the AI model with the one you are running.
 
 
